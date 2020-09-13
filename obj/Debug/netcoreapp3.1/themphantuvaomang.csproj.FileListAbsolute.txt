@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\themphantuvaomang\bin\Debug\netcoreapp3.1\themphantuvaomang.exe
+C:\Users\admin\source\repos\themphantuvaomang\bin\Debug\netcoreapp3.1\themphantuvaomang.deps.json
+C:\Users\admin\source\repos\themphantuvaomang\bin\Debug\netcoreapp3.1\themphantuvaomang.runtimeconfig.json
+C:\Users\admin\source\repos\themphantuvaomang\bin\Debug\netcoreapp3.1\themphantuvaomang.runtimeconfig.dev.json
+C:\Users\admin\source\repos\themphantuvaomang\bin\Debug\netcoreapp3.1\themphantuvaomang.dll
+C:\Users\admin\source\repos\themphantuvaomang\bin\Debug\netcoreapp3.1\themphantuvaomang.pdb
+C:\Users\admin\source\repos\themphantuvaomang\obj\Debug\netcoreapp3.1\themphantuvaomang.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\themphantuvaomang\obj\Debug\netcoreapp3.1\themphantuvaomang.AssemblyInfo.cs
+C:\Users\admin\source\repos\themphantuvaomang\obj\Debug\netcoreapp3.1\themphantuvaomang.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\themphantuvaomang\obj\Debug\netcoreapp3.1\themphantuvaomang.dll
+C:\Users\admin\source\repos\themphantuvaomang\obj\Debug\netcoreapp3.1\themphantuvaomang.pdb
+C:\Users\admin\source\repos\themphantuvaomang\obj\Debug\netcoreapp3.1\themphantuvaomang.genruntimeconfig.cache
+C:\Users\admin\source\repos\themphantuvaomang\obj\Debug\netcoreapp3.1\themphantuvaomang.csprojAssemblyReference.cache
